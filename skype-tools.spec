@@ -5,7 +5,7 @@
 Summary:	Command-line tools for Skype
 Name:		skype-tools
 Version:	0.11
-Release:	7
+Release:	8
 License:	GPL
 Group:		Development/Languages/Python
 Source0:	http://www.oberle.org/skype_tools-%{version}.tar.gz
